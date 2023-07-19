@@ -1,0 +1,4 @@
+uy/edu/ort/devops/paymentsserviceexample/PaymentsServiceExampleApplication.class
+uy/edu/ort/devops/paymentsserviceexample/logic/PaymentsLogic.class
+uy/edu/ort/devops/paymentsserviceexample/endpoints/PaymentsEndpoint.class
+uy/edu/ort/devops/paymentsserviceexample/domain/PaymentStatus.class
